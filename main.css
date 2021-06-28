@@ -110,11 +110,6 @@
   color: var(--interactive-normal);
 }
 
-:root #app-mount {
-  --font-primary: "Nunito";
-  --font-display: "Nunito";
-}
-
 :root .embedFull-2tM8-- {
   border: none;
   margin-left: 10px;
